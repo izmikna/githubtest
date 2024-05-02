@@ -1,0 +1,3 @@
+veggie = "squash"
+print ("i also like to eat {}".format(veggie))
+
